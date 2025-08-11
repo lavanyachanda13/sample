@@ -1,4 +1,4 @@
-class AllStrong_Number
+public class strongnumbers
 {
 	public static void main(String[] args)
 	{
